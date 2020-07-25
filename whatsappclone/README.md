@@ -1,6 +1,6 @@
 # whatsappclone
 
-whatsapp clone com firebase
+Whatsapp-Clone com firebase <br> Projeto desenvolvido junto ao curso Desenvolvimento Android  e IOS com Flutter
 
 ## Getting Started
 
